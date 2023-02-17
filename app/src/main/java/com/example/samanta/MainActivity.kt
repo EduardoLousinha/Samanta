@@ -12,6 +12,4 @@ class MainActivity : AppCompatActivity() {
 }
 //A spectre is haunting Europe
 //The spectre of Communism
-//B1 P1
-//B1 P2
-//B1 P3
+//B2 P1
