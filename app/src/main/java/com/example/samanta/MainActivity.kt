@@ -14,3 +14,4 @@ class MainActivity : AppCompatActivity() {
 //The spectre of Communism
 //B2 P1
 //B2 P2
+//B2 P3
